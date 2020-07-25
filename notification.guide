@@ -1,0 +1,1 @@
+notification.exe -title "title" -body "the body" -icon "icon" -keep_open -start "start"
